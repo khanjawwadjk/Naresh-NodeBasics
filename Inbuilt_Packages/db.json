@@ -1,0 +1,14 @@
+[
+    {
+        "firstName": "Jawwad",
+        "lastName": "Khan",  
+        "age": 23,
+        "gender": "Male"    
+    },
+    {
+        "firstName": "Arfat",
+        "lastName": "Khan",  
+        "age": 22,
+        "gender": "Male"    
+    }
+]

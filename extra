@@ -1,0 +1,36 @@
+/// VSCode Extensions
+> TabNine
+> Eslint 
+> Spell Check
+> Git History
+> Git Lens
+> VSCode Icons
+
+
+/// ES5
+var a = 23;
+var b = "My age is"+ a;
+output >> "My age is 23"
+
+/// ES6
+var a = 23;
+var b = `My age is ${a}`;
+output >> "My age is 23"
+
+/// Local Dependencies
+>> The packages which are accessible only inside a specific folder
+To install locally >>> npm i packageName
+
+/// Global Dependencies
+>> The packages which are accessible from any place or folder.
+>> Only package that is require to run app (require before run app) will go global.AbortController
+To insatll globally for windows
+     >>> Open cmd as admin
+     >>> npm i -g packageName
+
+/// Dev dependencies/Packages
+>> The dependencies or packages which are used by developer only at the time of the development is known as devDependencies.
+
+/// Nodemon
+>> Automatically restarts the server when any changes detected.
+>> To install - npm i -g nodemon 
