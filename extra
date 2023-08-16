@@ -33,4 +33,5 @@ To insatll globally for windows
 
 /// Nodemon
 >> Automatically restarts the server when any changes detected.
+>> changes in environment variable will not be detected by Nodemon. Hence  needs to start/stop the server manually.
 >> To install - npm i -g nodemon 
